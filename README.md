@@ -1,2 +1,3 @@
 # MH_TP_chikhaouiselma
-code
+Travelling salesman problem (TSP) - Particle Swarm Optimization (PSO)
+
